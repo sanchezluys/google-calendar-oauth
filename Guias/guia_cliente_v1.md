@@ -1,4 +1,3 @@
-````markdown
 # Integración OAuth 2.0 con Google Calendar para AsisteClick
 
 ## Objetivo
@@ -362,4 +361,3 @@ Al finalizar esta guía se dispone de una integración OAuth completamente funci
 - Obtención de Refresh Token.
 - Consulta de calendarios.
 - Base preparada para crear, consultar, modificar y eliminar eventos mediante la Google Calendar API.
-````
